@@ -58,7 +58,6 @@ main {
    
 @media(min-width: 870px){
     main {
-        grid-template-columns: repeat(12, 1fr);
         grid-template-columns: repeat(9, 1fr) repeat(3, minmax(70px, 1fr));
         grid-template-areas: 
             "tech tech tech tech tech tech envi envi envi nasa nasa nasa"
