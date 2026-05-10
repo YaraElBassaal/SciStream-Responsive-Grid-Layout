@@ -1,5 +1,10 @@
 # 🔬 SciStream – Responsive Grid Layout
 
+<img width="1920" height="1007" alt="Image" src="https://github.com/user-attachments/assets/da4af6bf-0197-4cf0-8a1e-533e3dd478ca" />
+
+<!-- <img width="920" height="1866" alt="Image" src="https://github.com/user-attachments/assets/709de7fa-50be-42f2-baa2-ee6993a5ac7d" />
+
+<img width="502" height="2604" alt="Image" src="https://github.com/user-attachments/assets/cfe9458a-1483-46e2-bf02-131bb8553038" /> -->
 
 ---
 
@@ -60,7 +65,7 @@ To use the SciStream project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   https://github.com/YaraElBassaal/SciStream-Responsive-Grid-Layout.git
+   git clone https://github.com/YaraElBassaal/SciStream-Responsive-Grid-Layout.git
 2. Open the project folder.
 3. Open the `index.html` file in your web browser.
 
@@ -68,6 +73,7 @@ To use the SciStream project, follow these steps:
 
 ## Usage💻
 Once the SciStream project is running in your browser, you can:
+- Navigate to the site from this link: https://yaraelbassaal.github.io/SciStream-Responsive-Grid-Layout/
 - Explore a responsive science news layout
 - Resize the browser window to see how the grid adapts
 - Observe how CSS Grid areas control layout positioning
